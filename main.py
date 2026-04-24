@@ -1,5 +1,5 @@
 # Pinball Simulation
-# Goal: Simulate the logic of the Pinball game from PokerFate to determine the expected value of playing the game
+# Goal: Simulate the logic of the Pinball mini-game to determine the expected value of playing the game
 #  and to practice coding with AI assistance.
 # These "casual games" are usually designed so that you cannot win and this one is relatively simple.
 # From basic testing, it appears that although you can alter the number of balls per round, they do not collide.
